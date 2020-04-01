@@ -1,0 +1,65 @@
+@media only screen and (min-width: 768px) {
+  header {
+    background: blue;
+  }
+  .b{
+      background: greenyellow;
+  }
+  .c {
+    background: blueviolet;
+  }
+  .d {
+    background: brown;
+  }
+  .e {
+    background: burlywood;
+  }
+  .f {
+    background: cadetblue;
+  }
+  .g {
+    background: chartreuse;
+  }
+  .h {
+    background: chocolate;
+  }
+  footer {
+    background: coral;
+  }
+}
+
+@media only screen and (max-width: 767px) {
+  header {
+    background: rgb(255, 240, 182);
+  }
+  .b{
+      background: lightskyblue;
+  }
+  .c {
+    background: darkgray;
+  }
+  .d {
+    background: darkgreen;
+  }
+  .e {
+    background: darkorchid;
+  }
+  .f {
+    background: deepskyblue;
+  }
+  .g {
+    background: gold;
+  }
+  .h {
+    background: rgb(241, 197, 241);
+  }
+  footer {
+    background: greenyellow;
+  }
+  header{
+      border: 1px solid gray;
+  }
+  .c{
+      border-right: 1px solid gray;
+  }
+}
