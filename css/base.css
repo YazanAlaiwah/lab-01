@@ -6,3 +6,6 @@ p{
 header, footer, div{
     border: 1px solid gray;
 }
+div{
+    border-top: 0px;
+}
